@@ -2,13 +2,7 @@
 
 Welcome to my resume repository. This project contains my professional resume in Markdown format, making it easy to version, update, and share.
 
-## 👤 About Me
-**Jean-Sébastien Hould**  
-Project Manager | Senior Software Developer | CAD Automation Specialist  
-
----
-
-## 📝 Professional Profile
+## 👋 About Me
 Seasoned software developer with over 12 years of experience in **CAD automation** and **project management**. Expert in developing innovative solutions for mechanical engineering, combining advanced technical skills and team leadership. Recognized for optimizing processes and delivering robust, scalable software solutions.
 
 ---
@@ -32,12 +26,12 @@ Seasoned software developer with over 12 years of experience in **CAD automation
 
 ---
 
-## 📂 Professional Experience
+## 💼 Experience
 - **Project Manager – Bousquet Technologies (2021–Present)**  
   Leading software development projects, coordinating technical teams, and delivering automation solutions.  
 
-- **CAD Automation Team Leader – Nortek Air Solutions (2018–2021)**  
-  Directed software architecture, managed CAD automation requests, and optimized Autodesk Vault for 50+ users.  
+- **Team Lead & CAD Automation Administrator – Nortek Air Solutions (2018–2021)**  
+  Oversaw CAD automation administration and development.  
 
 - **Software Developer & Mechanical Designer – Nortek Air Solutions (2012–2018)**  
   Developed automation tools, managed databases, and provided technical support for engineering teams.  
