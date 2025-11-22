@@ -1,58 +1,94 @@
-# Jean-Sébastien Hould – Resume
+# 📄 Resume – Jean-Sébastien Hould
 
-## 👋 About Me
-Project Manager and Senior Software Developer specializing in CAD automation.  
-Experienced in leading software development projects, mechanical design, and workflow optimization.  
-Detail‑oriented, pragmatic, and bilingual (French/English).
+Welcome to my resume repository. This project contains my professional resume in Markdown format, making it easy to version, update, and share.
+
+## 👤 About Me
+**Jean-Sébastien Hould**  
+Project Manager | Senior Software Developer | CAD Automation Specialist  
+
+---
+
+## 📝 Professional Profile
+Seasoned software developer with over 12 years of experience in **CAD automation** and **project management**. Expert in developing innovative solutions for mechanical engineering, combining advanced technical skills and team leadership. Recognized for optimizing processes and delivering robust, scalable software solutions.
 
 ---
 
 ## 🔗 Quick Links
 - 📄 [Download Resume (PDF)](resume.pdf)
-- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/j-should)
+- 📧 [Email](mailto:j-should@outlook.com) 
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/j-should)  
 - 💻 [Portfolio Projects](#projects)
 
 ---
 
-## 🛠 Skills
-- **Programming:** VBA, VB6, VB.Net, SQL, .NET Framework, Entity Framework  
-- **CAD Automation:** Autodesk Inventor, AutoCAD, Autodesk Vault  
-- **Project Management:** Agile methodologies, SOLID principles, Git, TFS  
+## 💻 Technical Skills
+- **Programming:** C#, VB, SQL, Python, PowerShell, iLogic  
+- **CAD Automation:** Autodesk Inventor, AutoCAD, Vault, SolidWorks, EPDM  
+- **Frameworks & Tech:** .NET, EFCore, WPF  
 - **Testing:** MSTest, NUnit, xUnit  
-- **Mechanical Design:** Sheet metal, welding symbols, welding processes  
-- **Languages:** French (native), English (professional)
+- **Concepts:** Agile, SOLID, MVP, MVVM, Repository, Parallelism  
+- **Version Control:** Git, TFS, Azure DevOps  
+- **Domain Expertise:** Sheet metal design, Welding symbols, CAD administration  
 
 ---
 
-## 💼 Experience
+## 📂 Professional Experience
 - **Project Manager – Bousquet Technologies (2021–Present)**  
-  Leading software development projects in CAD automation.
+  Leading software development projects, coordinating technical teams, and delivering automation solutions.  
 
-- **Team Lead & CAD Automation Administrator – Nortek Air Solutions (2018–2021)**  
-  Oversaw CAD automation administration and development.
+- **CAD Automation Team Leader – Nortek Air Solutions (2018–2021)**  
+  Directed software architecture, managed CAD automation requests, and optimized Autodesk Vault for 50+ users.  
 
 - **Software Developer & Mechanical Designer – Nortek Air Solutions (2012–2018)**  
-  Developed automation tools and led design projects.
+  Developed automation tools, managed databases, and provided technical support for engineering teams.  
 
-- **Mechanical Engineering Technician – Johnston-Vermette (Gentilly 2 Nuclear Plant, 2012)**  
-  Supported engineering workflows in a high‑precision environment.
+- **Mechanical Engineering Technician – Johnston-Vermette (2012)**  
+  Managed engineering files and coordinated technical projects at Gentilly 2 Nuclear Power Plant.  
+
+- **Mechanical Engineering Technician – Estampage JPL (2012)**  
+  Supervised welding-assembly, designed jigs, and created production guidelines.  
 
 ---
 
 ## 🎓 Education
-- DEC in Mechanical Engineering (Design), Cégep de Trois-Rivières  
-- DEP in Welding/Assembly, Qualitech  
-- DES, École secondaire Mont-Bénilde  
+- DEC in Mechanical Engineering – Cégep de Trois-Rivières (2006–2009)  
+- DEP in Welding/Assembly – Qualitech (2005–2006)  
 
 ---
 
-## 🚀 Projects
-- **Resume-as-Code**: Automated Markdown → PDF workflow for professional documents  
-- **CAD Automation Tools**: Custom scripts for Autodesk Inventor and AutoCAD  
-- **Gaming Workflow Optimization**: WoW addon configuration for efficient gameplay  
+## 🏆 Awards
+- **Best Student in Mechanical Engineering (Design)** – Cégep de Trois-Rivières  
 
 ---
 
-## 📬 Contact
-- 📧 Email: *your.email@example.com*  
-- 🌐 LinkedIn: [Jean-Sébastien Hould](https://www.linkedin.com/in/jeansebastienhould)  
+## 🌐 Languages
+- French: Native  
+- English: Professional  
+
+---
+
+## 💡 Professional Strengths
+- Excellent communication (oral & written)  
+- Attention to detail and rigor  
+- Self-taught and passionate about technology  
+- Leadership and team management  
+- Adaptability and problem-solving  
+
+---
+
+## 📌 Repository Structure
+- `resume.md` → Main resume in Markdown format  
+- `README.md` → This file, providing an overview of the repository  
+
+---
+
+## 🚀 Usage
+You can view the resume directly in GitHub or download the raw Markdown file for use in:
+- Job applications  
+- Online profiles  
+- Document conversion (PDF, DOCX, etc.)  
+
+---
+
+## 📜 License
+This repository is licensed under the MIT License. Feel free to use the structure and format for your own resume projects.
