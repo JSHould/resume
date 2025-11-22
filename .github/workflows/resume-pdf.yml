@@ -1,6 +1,7 @@
 name: Build Resume PDF
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - "resume.md"
