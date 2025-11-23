@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install Pandoc
-        run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-latex-recommended
+        run: sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra texlive-latex-recommended texlive-fonts-extra
 
       - name: Convert Markdown to PDF
         run: pandoc resume.md -o resume.pdf --pdf-engine=lualatex
